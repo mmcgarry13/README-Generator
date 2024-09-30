@@ -48,7 +48,7 @@ function generateMarkdown(data) {
 
 - [Motivatiion](#Motivation)
 
-- [Why Make This?](#Why-Make-This?)
+- [Email](#Email?)
 
 - [What problem does this solve?](#What-problem-does-this-solve?)
 
@@ -69,9 +69,6 @@ ${data.synopsis}
 ## Motivation
 ${data.motivation}
 
-## Why Make this?
-${data.why}
-
 ## What problem does this solve?
 ${data.problem}
 
@@ -86,6 +83,9 @@ ${data.collaborators}
 
 ## GitHub
 ${data.GitHub}
+
+## Email
+${data.email}
 
 
 ## License    

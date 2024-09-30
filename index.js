@@ -8,7 +8,7 @@ const questions = [
     'What is the title of this project?',
     'Please provide an explanation for usage/installation of this project',
     'What was your motivation for this project?',
-    'Why did you build this project?',
+    'What is your email address?',
     'What problem does this project solve?',
     'What did you learn while making this project?',
     'What makes this project stand out?',
@@ -50,7 +50,7 @@ inquirer
         {
             type: 'input',
             message: questions[4],
-            name: 'why',
+            name: 'email',
         },
         {
             type: 'input',
