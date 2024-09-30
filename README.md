@@ -1,16 +1,16 @@
 # README Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Table of Contents
-[Usage](#Usage)
-[Motivatiion](#Motivation)
-[Why Make This?](#Why-Make-This?)
-[What problem does this solve?](#What-problem-does-this-solve?)
-[What did I learn while making this project?](#What-did-I-learn-while-making-this-project?)
-[What really makes this project stand out?](#What-really-makes-this-project-stand-out?)
-[Credits](#Credits)
-[GitHub](#GitHub)
-[License](#license)
-[Contact Me](#contact-me)
+- [Usage](#Usage)
+- [Motivatiion](#Motivation)
+- [Why Make This?](#Why-Make-This?)
+- [What problem does this solve?](#What-problem-does-this-solve?)
+- [What did I learn while making this project?](#What-did-I-learn-while-making-this-project?)
+- [What really makes this project stand out?](#What-really-makes-this-project-stand-out?)
+- [Credits](#Credits)
+- [GitHub](#GitHub)
+- [License](#license)
+- [Contact Me](#contact-me)
   
 
 ## Usage 

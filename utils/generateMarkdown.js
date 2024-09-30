@@ -44,23 +44,23 @@ function generateMarkdown(data) {
 
 # Table of Contents
 
-[Usage](#Usage)
+- [Usage](#Usage)
 
-[Motivatiion](#Motivation)
+- [Motivatiion](#Motivation)
 
-[Why Make This?](#Why-Make-This?)
+- [Why Make This?](#Why-Make-This?)
 
-[What problem does this solve?](#What-problem-does-this-solve?)
+- [What problem does this solve?](#What-problem-does-this-solve?)
 
-[What did I learn while making this project?](#What-did-I-learn-while-making-this-project?)
+- [What did I learn while making this project?](#What-did-I-learn-while-making-this-project?)
 
-[What really makes this project stand out?](#What-really-makes-this-project-stand-out?)
+- [What really makes this project stand out?](#What-really-makes-this-project-stand-out?)
 
-[Credits](#Credits)
+- [Credits](#Credits)
 
-[GitHub](#GitHub)
+- [GitHub](#GitHub)
 
-[License](#license)
+- [License](#license)
   
 
 ## Usage 
