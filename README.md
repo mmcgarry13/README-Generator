@@ -14,7 +14,9 @@
   
 
 ## Usage 
-Answer a series of terminal promps and behold, a README.md file is generated for your project!
+Answer a series of terminal promps and behold, a README.md file is generated for your project! Follow the below link to see howw it works in action:
+
+https://youtu.be/GOaHpr3Ichg
     
 ## Motivation
 A solid readme is a must have for any project so why not make a more convenient way to make one
